@@ -1,3 +1,3 @@
-#Tfarej-CodingDojo-Project-Mern
+Tfarej-CodingDojo-Project-Mern
 Movie App
 
